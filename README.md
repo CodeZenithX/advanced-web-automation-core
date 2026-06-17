@@ -16,5 +16,3 @@ Ensure your ecosystem has Python 3.8+ and Google Chrome installed.
 1. Clone this secure repository:
 ```bash
    git clone [https://github.com/CodeZenithX/advanced-web-automation-core.git](https://github.com/CodeZenithX/advanced-web-automation-core.git)
-   cd advanced-web-automation-core# advanced-web-automation-core
-Production-grade Python &amp; Selenium framework for high-performance dynamic web scraping, data extraction, and automated workflow pipelines. Fully optimized with explicit waits and anti-bot mitigation techniques.
